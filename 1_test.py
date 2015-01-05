@@ -7,9 +7,9 @@ import string
 import MySQLdb
 from collections import namedtuple
 
-user = 'dbauser'
-pwd = '123abc456'
-host = '10.0.2.10'
+user = ''
+pwd = ''
+host = ''
 db = 'dbpara01'
 port = 3306
 
